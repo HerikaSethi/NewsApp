@@ -1,0 +1,140 @@
+{
+    "status": "ok",
+    "articles": [
+      {
+        "source": {
+          "id": "abc-news",
+          "name": "ABC News"
+        },
+        "author": "Cheyenne Haslett",
+        "title": "Opill, first over-the-counter birth control pill, will go on sale later this month - ABC News",
+        "description": "The pill was cleared by the FDA for use without a prescription last July.",
+        "url": "https://abcnews.go.com/Health/opill-counter-birth-control-pill-sale-month/story?id=107775263",
+        "urlToImage": "https://i.abcnewsfe.com/a/878755e8-4a55-4330-8bb1-9139e4efe294/opill-ht-ml-240304_1709566845014_hpMain_16x9.jpg?w=1600",
+        "publishedAt": "2024-03-05T03:06:42Z",
+        "content": "Opill, the first over-the-counter birth control pill that can be purchased without a prescription, will be available later this month online and in pharmacies for $19.99 a month, $49.99 for a three-month supply."
+      },
+       {
+        "source": {
+        "id": null,
+        "name": "Biztoc.com"
+        },
+        "author": "finance.yahoo.com",
+        "title": "3 Cryptocurrencies to Avoid Like the Plague in March",
+        "description": "Don't look now, but artificial intelligence (AI) stocks aren't the hottest investment anymore. Despite the massive gains witnessed from the likes of Nvidia and Super Micro Computer in the AI realm, it's the cryptocurrency space that's, once again, turning hea…",
+        "url": "https://biztoc.com/x/425256e901a45607",
+        "urlToImage": "https://c.biztoc.com/p/425256e901a45607/s.webp",
+        "publishedAt": "2024-03-05T12:34:09Z",
+        "content": "Don't look now, but artificial intelligence (AI) stocks aren't the hottest investment anymore. Despite the massive gains witnessed from the likes of Nvidia and Super Micro Computer in the AI realm, i… [+297 chars]"
+        },
+
+        {
+          "source": {
+          "id": "business-insider",
+          "name": "Business Insider"
+          },
+          "author": "abacon@insider.com (Alexandra Bacon)",
+          "title": "BYD fires the latest shot in China's EV price war with 12% price cut",
+          "description": "The latest version of BYD's Yuan Plus starts at about $16,600, which is about 12% less than its predecessor.",
+          "url": "https://www.businessinsider.com/byd-china-ev-price-war-yuan-plus-tesla-elon-musk-2024-3",
+          "urlToImage": "https://i.insider.com/65e5f6cc6080194819fc2b5f?width=1200&format=jpeg",
+          "publishedAt": "2024-03-05T12:26:49Z",
+          "content": "The latest version of BYD's best-selling Yuan Plus has gone on sale in China starting at about 120,000 yuan, or about $16,600, making it roughly 12% cheaper than its predecessor.\r\nThe price cut, whic… [+1435 chars]"
+          },
+
+      {
+"source": {
+"id": "the-jerusalem-post",
+"name": "The Jerusalem Post"
+},
+"author": "BY UDI EZION",
+"title": "Electric cars on the rise in the Israeli market",
+"description": "New car deliveries in February recorded the smallest drop since the outbreak of the war. Hyundai, Kia, Toyota, Skoda, and BYD are Israel's leading car brands.",
+"url": "https://www.jpost.com/business-and-innovation/all-news/article-789966",
+"urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/582458",
+"publishedAt": "2024-03-05T12:25:45Z",
+"content": "A total of 24,512 new cars were released onto Israel's roads in the past month, according to data from the Licensing Bureau. In regular and parallel imports, a 21% decrease was recorded compared to l… [+1079 chars]"
+}, 
+
+{
+  "source": {
+  "id": "techcrunch",
+  "name": "TechCrunch"
+  },
+  "author": "Ingrid Lunden",
+  "title": "Multiverse helped bank quants speed up their work; now it's targeting LLM leviathans | TechCrunch",
+  "description": "We're still years away from seeing physical quantum computers break into the market with any scale and reliability, but don't give up on deep tech. The",
+  "url": "https://techcrunch.com/2024/03/04/multiverse-computing/",
+  "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/08/GettyImages-1169873499.jpg?w=814",
+  "publishedAt": "2024-03-05T07:33:15Z",
+  "content": "We’re still years away from seeing physical quantum computers break into the market with any scale and reliability, but don’t give up on deep tech. The market for high-level quantum computer science … [+4567 chars]"
+  },
+  {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Lorenzo Franceschi-Bicchierai and Zack Whittaker",
+    "title": "X's new calling feature hurts your privacy — here's how to switch it off | TechCrunch",
+    "description": "TechCrunch ran tests of the feature to analyze how the calling feature works and to understand what are the risks associated with it.",
+    "url": "https://techcrunch.com/2024/03/04/elon-musk-x-twitter-calling-privacy-switch-off/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/03/twitter-x-phone-call.jpg?resize=1200,675",
+    "publishedAt": "2024-03-04T23:40:28Z",
+    "content": "In his quest to turn a simple and functioning Twitter app into X, the everything app that doesnt do anything very well, Elon Musk launched audio and video calling on X last week and this new feature … [+5119 chars]"
+    }, 
+    {
+      "source": {
+      "id": "engadget",
+      "name": "Engadget"
+      },
+      "author": "Daniel Cooper",
+      "title": "The best thing about the M3 MacBook Air is… the M2 MacBook Air",
+      "description": "Apple has upgraded the 13 and 15-inch MacBook Airs with the M3\r\n and a few new bells and whistles. But while I expected the company to keep the M1 around as its budget option, it swapped it out for the base model M2. Someone at Cupertino’s going to regret tha…",
+      "url": "https://www.engadget.com/the-best-thing-about-the-m3-macbook-air-is-the-m2-macbook-air-144543065.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/QMjCqWxzHFUubJ4VFyBJIQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MzY-/https://s.yimg.com/os/creatr-uploaded-images/2022-07/8f59f850-0318-11ed-bdad-5a7355971e05",
+      "publishedAt": "2024-03-05T14:45:43Z",
+      "content": "Apple has upgraded the 13 and 15-inch MacBook Airs with the M3\r\n and a few new bells and whistles. But while I expected the company to keep the M1 around as its budget option, it swapped it out for t… [+3148 chars]"
+      },
+      {
+        "source": {
+        "id": null,
+        "name": "MacRumors"
+        },
+        "author": "Juli Clover",
+        "title": "iOS 17.4 Features: What's New in iOS 17.4",
+        "description": "Apple today released the iOS 17.4 update that brings some major changes to the iPhone (and the iPad) in Europe. Many of the biggest changes in iOS 17.4 are limited to people in the European Union, but there new additions in the update that are available world…",
+        "url": "https://www.macrumors.com/guide/ios-17-4-features/",
+        "urlToImage": "https://images.macrumors.com/t/-Vlu6kXO7GZc7DWz2bk1ibNxhuo=/2500x/article-new/2024/01/iOS-17.4-Feature-Blue.jpg",
+        "publishedAt": "2024-03-05T22:28:36Z",
+        "content": "Apple today released the iOS 17.4 update that brings some major changes to the iPhone (and the iPad) in Europe. Many of the biggest changes in iOS 17.4 are limited to people in the European Union, bu… [+13014 chars]"
+        },
+        {
+          "source": {
+          "id": "business-insider",
+          "name": "Business Insider"
+          },
+          "author": "Peter Kafka",
+          "title": "Google can recover from the Gemini flop. Just look at Apple Maps.",
+          "description": "Maybe Google can recover from the Gemini flop, and most people will never remember it. That's what happened with Apple Maps. But the clock is ticking.",
+          "url": "https://www.businessinsider.com/google-gemini-can-it-recover-openai-chatgpt-apple-maps-2024-3",
+          "urlToImage": "https://i.insider.com/65e7958190413ab8e1d9883c?width=1200&format=jpeg",
+          "publishedAt": "2024-03-05T22:25:32Z",
+          "content": "Google's Gemini has been a debacle so far. But there's hope: Just look at Apple Maps.SOPA Images/Getty Images\r\n<ul><li>Google's Gemini flop looks bad from the outside. On the inside, too.</li><li>But… [+3568 chars]"
+          }, 
+          {
+            "source": {
+            "id": null,
+            "name": "Livemint"
+            },
+            "author": "Livemint",
+            "title": "Kerala government job creation: ₹1,520.69 crore investment yields 5,839 jobs in 8 years, shows RTI",
+            "description": "Kerala government's investment of  ₹1,520.69 crore created 5,839 jobs in companies with  ₹5 crore turnover, as per an RTI response. An activist raised concerns over the effectiveness of government assistance schemes and called for a comprehensive review and m…",
+            "url": "https://www.livemint.com/companies/news/kerala-government-job-creation-rs-1-520-69-crore-investment-yields-5-839-jobs-in-8-years-shows-rti-11709700930906.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2024/03/06/1600x900/Kerala_Chief_Minister_jobs_creation_government_1709701327325_1709701327559.jpg",
+            "publishedAt": "2024-03-06T05:09:07Z",
+            "content": "A recent Right to Information (RTI) response has unveiled that from 2016 to 2024, the Kerala government created 5,839 jobs with an investment of 1,520.69 crore in companies boasting a turnover of 5 c… [+2431 chars]"
+            }
+  
+    ]
+  }
+  
